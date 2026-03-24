@@ -5,7 +5,7 @@ nodeType: "AGENT"
 position:
   x: 804
   "y": 474
-nextStep: ""
+nextStep: null
 parameters: !<AGENT>
   systemPromts:
     role: "Ты — HR-ассистент, который проводит телефонное первичное интервью с кан\

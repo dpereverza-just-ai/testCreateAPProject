@@ -5,6 +5,6 @@ nodeType: "TRIGGER_MESSAGE"
 position:
   x: -83
   "y": 370
-nextStep: "state_condition"
+nextStep: null
 parameters: !<TRIGGER_MESSAGE>
   placeholder: null
