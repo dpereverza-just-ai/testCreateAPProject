@@ -20,3 +20,4 @@ parameters: !<FUNCTION>
     historyMessageLimit: !<INTEGER>
       value: "null"
       filledAi: true
+  contextConfig: null
