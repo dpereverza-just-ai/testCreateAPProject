@@ -38,3 +38,4 @@ parameters: !<AGENT>
     allowedAny: false
     allowedAgentNodeIds: []
   stayInAgent: false
+  telephonyConfig: null

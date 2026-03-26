@@ -1,0 +1,14 @@
+---
+id: "69c4e7a54f780b0ff60b2d1a"
+name: "testFN"
+collectionName: "TestCollection"
+description: "testFN"
+code: null
+responseDescription: "dfdfdf"
+parameters:
+- name: "isArray"
+  type: "BOOLEAN"
+  required: true
+  description: "isArray"
+  properties: null
+  items: null
