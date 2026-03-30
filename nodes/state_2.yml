@@ -1,5 +1,5 @@
 ---
-id: "state_ragRetrieveChunks"
+id: "state_2"
 nodeName: "Rag.retrieveChunks"
 nodeType: "FUNCTION"
 position:
@@ -11,13 +11,13 @@ parameters: !<FUNCTION>
   isTool: true
   isSystem: true
   parameters:
-    ragIntegration: !<INTEGRATION_RAG>
+    ragIntegration: !<STRING>
       value: null
       filledAi: false
     query: !<STRING>
-      value: "null"
+      value: null
       filledAi: true
     historyMessageLimit: !<INTEGER>
-      value: "null"
+      value: null
       filledAi: true
   contextConfig: null
