@@ -1,7 +1,7 @@
 ---
-key: "1000008-open_ai_gpt41-iap"
+key: "1000008-open_ai_gpt41-mis"
 credentialKey: null
-projectShortName: "d_p_git-1000008-Hpr"
+projectShortName: "d_p_test-1000008-UfI"
 name: "OPEN_AI - gpt-4.1"
 provider: "OPEN_AI"
 model: "just-ai/openai-proxy/gpt-4.1"

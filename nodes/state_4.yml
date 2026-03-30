@@ -30,7 +30,7 @@ parameters: !<AGENT>
     frequencyPenalty: 0.1
     presencePenalty: 0.1
     verboseMode: true
-  llmModelKey: "1000008-open_ai_gpt41-iap"
+  llmModelKey: "1000008-open_ai_gpt41-mis"
   tools:
   - "state_2"
   - "state_1"
