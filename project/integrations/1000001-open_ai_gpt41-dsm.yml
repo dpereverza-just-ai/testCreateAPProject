@@ -1,8 +1,8 @@
 --- !<LLM>
-key: "1000001-open_ai_gpt41-pib"
+key: "1000001-open_ai_gpt41-dsm"
 type: "LLM"
 credentialKey: null
-projectShortName: "d_p-1000001-iyb"
+projectShortName: "d_p-1000001-rsn"
 name: "OPEN_AI - gpt-4.1"
 provider: "OPEN_AI"
 model: "just-ai/openai-proxy/gpt-4.1"

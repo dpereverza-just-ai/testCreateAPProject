@@ -7,4 +7,4 @@ position:
   "y": 491
 nextStep: "state_SendNews"
 parameters: !<TRIGGER_WEBHOOK>
-  url: "https://dev27.lo.test-ai.net/api/text-campaign-service/scenario-triggers/c943b757-e8a8-4560-b762-c6efaba9337c/invoke"
+  url: "https://dev27.lo.test-ai.net/api/text-campaign-service/scenario-triggers/355df80d-dec7-470f-bbf8-7d9e0e11c83d/invoke"
