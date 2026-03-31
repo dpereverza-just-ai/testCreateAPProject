@@ -2,7 +2,7 @@
 id: "SpaceArticles.searchArticles"
 name: "searchArticles"
 collectionName: "SpaceArticles"
-description: "Найти последние статьи по нужной теме"
+description: "Найти последние статьи по нужной теме 11"
 code: null
 responseDescription: "Функция получает релевантные статьи из Spaceflight News API\
   \ и возвращает их данные."
