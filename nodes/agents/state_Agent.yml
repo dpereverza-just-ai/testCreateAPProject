@@ -15,7 +15,7 @@ parameters:
     presence-penalty: 0.0
     verbose-mode: true
   system-promts:
-    role: You are a highly skilled web researcher and data extraction agent111.
+    role: You are a highly skilled web researcher and data extraction agent1111.
     goal: |-
       Your goals:
 
