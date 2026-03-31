@@ -3,33 +3,7 @@ id: "fetch.extract_elements"
 name: "extract_elements"
 originName: "extract_elements"
 collectionName: "fetch"
-mcpIntegrationKey: "1000001-fetch-fuz"
+mcpIntegrationKey: "1000001-fetch-npb"
 description: "Extract specific elements from a web page using CSS selectors."
 responseDescription: null
-parameters:
-- name: "url"
-  type: "STRING"
-  required: true
-  description: "The URL to fetch"
-  properties: null
-  items: null
-- name: "selector"
-  type: "STRING"
-  required: true
-  description: "CSS selector to find elements (e.g., 'img', '.class', '#id', 'link[rel*=\"\
-    icon\"]')"
-  properties: null
-  items: null
-- name: "attribute"
-  type: "STRING"
-  required: false
-  description: "Optional attribute to extract from elements (e.g., 'href', 'src',\
-    \ 'alt')"
-  properties: null
-  items: null
-- name: "limit"
-  type: "NUMBER"
-  required: false
-  description: "Maximum number of elements to return"
-  properties: null
-  items: null
+parameters: []
