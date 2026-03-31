@@ -10,6 +10,6 @@ parameters:
 - name: "query"
   type: "STRING"
   required: false
-  description: "Термин на английском языке, по которому нужно найти статьи"
+  description: "Термин на английском языке, по которому нужно найти статьи 1"
   properties: null
   items: null
