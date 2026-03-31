@@ -1,0 +1,9 @@
+---
+id: state_MessageTrigger
+name: Сообщение
+position:
+  x: 544
+  "y": 48
+next-step: state_Agent
+parameters:
+  placeholder: null
