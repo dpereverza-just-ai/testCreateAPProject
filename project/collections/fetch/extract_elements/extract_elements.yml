@@ -1,9 +1,0 @@
----
-id: "fetch.extract_elements"
-name: "extract_elements"
-originName: "extract_elements"
-collectionName: "fetch"
-mcpIntegrationKey: "1000001-fetch-npb"
-description: "Extract specific elements from a web page using CSS selectors."
-responseDescription: null
-parameters: []

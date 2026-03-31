@@ -1,9 +1,0 @@
---- !<MCP>
-key: "1000001-fetch-npb"
-type: "MCP"
-credentialKey: null
-projectShortName: "d_p_2-1000001-knF"
-name: "fetch"
-collectionName: "fetch"
-url: "https://server.smithery.ai/@smithery-ai/fetch/mcp?api_key=c8da2ca8-30cb-4b02-ad2c-6e2cbfb44b58"
-toolsCount: 3
