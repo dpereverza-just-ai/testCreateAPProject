@@ -1,0 +1,15 @@
+---
+id: "fetch.fetch_url"
+name: "fetch_url"
+originName: "fetch_url"
+collectionName: "fetch"
+mcpIntegrationKey: "1000001-fetch-fuz"
+description: "Fetch a URL and return basic information about the page."
+responseDescription: null
+parameters:
+- name: "url"
+  type: "STRING"
+  required: true
+  description: "The URL to fetch"
+  properties: null
+  items: null

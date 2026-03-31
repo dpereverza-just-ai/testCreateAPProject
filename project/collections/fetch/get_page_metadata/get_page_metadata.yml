@@ -1,0 +1,16 @@
+---
+id: "fetch.get_page_metadata"
+name: "get_page_metadata"
+originName: "get_page_metadata"
+collectionName: "fetch"
+mcpIntegrationKey: "1000001-fetch-fuz"
+description: "Extract comprehensive metadata from a web page including title, description,\
+  \ Open Graph tags, Twitter cards, and other meta information."
+responseDescription: null
+parameters:
+- name: "url"
+  type: "STRING"
+  required: true
+  description: "The URL to analyze"
+  properties: null
+  items: null

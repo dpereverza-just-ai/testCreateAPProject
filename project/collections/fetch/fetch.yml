@@ -1,0 +1,6 @@
+---
+name: "fetch"
+functionIds:
+- "extract_elements"
+- "fetch_url"
+- "get_page_metadata"
