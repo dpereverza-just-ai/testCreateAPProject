@@ -1,0 +1,10 @@
+---
+id: "state_2"
+nodeName: "Код"
+nodeType: "CODE"
+position:
+  x: 381
+  "y": -92
+nextStep: "state_1"
+parameters: !<CODE>
+  code: null

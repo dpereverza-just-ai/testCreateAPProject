@@ -1,0 +1,11 @@
+---
+id: "state_1"
+nodeName: "Условие"
+nodeType: "CONDITION"
+position:
+  x: 371
+  "y": 94
+nextStep: "state_2"
+parameters: !<CONDITION>
+  condition: null
+  falseStep: null
