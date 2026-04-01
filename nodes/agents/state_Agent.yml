@@ -3,10 +3,10 @@ id: state_Agent
 name: Агент
 position:
   x: 954
-  "y": -201
+  y: -201
 next-step: null
 parameters:
-  llm-model-key: 1000008-open_ai_gpt41-xpw
+  llm-model-key: 1000008-open_ai_gpt41-asv
   llm-model-settings:
     max-tokens: 4000
     temperature: 0.6
@@ -15,8 +15,8 @@ parameters:
     presence-penalty: 0.0
     verbose-mode: true
   system-promts:
-    role: You are a friendly and polite ai-agent that communicates with usersdd. You
-      answer user questions using a knowledge base via a RAG tool1.
+    role: You are a friendly and polite ai-agent that communicates with users. You
+      answer user questions using a knowledge base via a RAG tool.
     goal: "Your goal is to assist users by providing accurate and helpful answers\
       \ to their questions, utilizing the knowledge base. If an answer cannot be found,\
       \ guide the user to rephrase their question."

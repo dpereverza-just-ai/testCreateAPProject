@@ -3,7 +3,7 @@ id: state_ragRetrieveChunks
 name: Rag.retrieveChunks
 position:
   x: 952
-  "y": 144
+  y: 144
 next-step: null
 parameters:
   function-id: cf9b44f3c44087baa9597a11
