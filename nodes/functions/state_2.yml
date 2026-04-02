@@ -2,8 +2,8 @@
 id: state_2
 name: add_company_to_crm
 position:
-  x: 1439
-  y: 369
+  x: 1213
+  y: 199
 next-step: null
 parameters:
   function-id: add_company_to_crm
