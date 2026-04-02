@@ -3,7 +3,7 @@ id: state_3
 name: Search_Company_Info_Agent
 position:
   x: 1325
-  y: -48
+  y: -41
 next-step: null
 parameters:
   llm-model-key: 1000008-open_ai_gpt41-cwk
