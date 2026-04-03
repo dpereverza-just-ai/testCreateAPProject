@@ -6,7 +6,7 @@ position:
   y: -41
 next-step: null
 parameters:
-  llm-model-key: 1000008-open_ai_gpt41-cwk
+  llm-model-key: 1000008-open_ai_gpt41-zbq
   llm-model-settings:
     max-tokens: 4000
     temperature: 0.3
