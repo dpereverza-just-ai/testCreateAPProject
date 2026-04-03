@@ -3,7 +3,7 @@ id: state_4
 name: Сообщение
 position:
   x: 843
-  y: -69
+  y: 15
 next-step: state_3
 parameters:
   placeholder: null

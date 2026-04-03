@@ -3,7 +3,7 @@ id: add_company_to_crm
 name: add_company_to_crm
 description: Adds a new company to amo CRM
 response-description: "Boolean value: true if the company added to amo CRM successfully,\
-  \ false if not"
+  \ false if not5"
 parameters:
 - name: name
   type: STRING
