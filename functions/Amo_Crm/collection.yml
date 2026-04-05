@@ -1,7 +1,0 @@
----
-description: null
-dependencies:
-- key: ax
-  version: 0.0.1
-  code-name: ax
-  description: A simple logging library
