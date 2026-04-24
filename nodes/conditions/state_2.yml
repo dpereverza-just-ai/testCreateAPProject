@@ -2,8 +2,8 @@
 id: state_2
 name: Условие
 position:
-  x: 834
-  y: 152
+  x: 960
+  y: 139
 next-step: null
 parameters:
   condition: null
