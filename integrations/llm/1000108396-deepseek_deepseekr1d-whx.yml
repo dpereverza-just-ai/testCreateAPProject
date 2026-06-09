@@ -1,0 +1,7 @@
+---
+key: 1000108396-deepseek_deepseekr1d-whx
+credential-key: null
+name: DEEPSEEK - deepseek-r1-distill-qwen-32b
+provider: DEEPSEEK
+model: just-ai/deepseek-deepseek/deepseek/deepseek-r1-distill-qwen-32b
+is-direct-access: false

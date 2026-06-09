@@ -1,8 +1,8 @@
 ---
-key: 1000001-d_p_git_2-1000001-Bxw-2677
+key: 1000108396-git-1000108396-AYc-20951916871
 credential-key: null
 name: Chat API
 type: CHAT_API
+is-auto-deploy: false
 operator-channel-key: null
 settings: null
-origin-key: 1000001-d_p_git-1000001-rbf-2675

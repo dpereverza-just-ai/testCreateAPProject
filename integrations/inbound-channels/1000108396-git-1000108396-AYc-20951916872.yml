@@ -1,7 +1,8 @@
 ---
-key: 1000001-d_p_git_2-1000001-Bxw-2688
+key: 1000108396-git-1000108396-AYc-20951916872
 credential-key: null
 name: Чат-виджет
 type: CHAT_WIDGET
+is-auto-deploy: false
 operator-channel-key: null
 settings: null
