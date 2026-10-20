@@ -1,0 +1,10 @@
+---
+id: code_mjblq
+name: AP3277_Conflict
+position:
+  x: 2250
+  y: 900
+next-step: null
+next-error-step: null
+parameters:
+  language: JAVASCRIPT
