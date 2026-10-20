@@ -7,5 +7,5 @@ position:
 next-step: state_SendNews
 next-error-step: null
 parameters:
-  url: https://test-pereverza.lo.test-ai.net/workflow-trigger/b61d57bd-4f43-43ae-9f98-bc3c11c25fa2
+  url: https://test-pereverza.lo.test-ai.net/workflow-trigger/3ef27858-a274-4379-8785-e8e91a6d89e7
   mock-payload: null
