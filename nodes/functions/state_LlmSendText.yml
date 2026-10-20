@@ -14,7 +14,7 @@ parameters:
   parameters:
     llmModelKey:
       type: LLM_MODEL
-      value: 1000001-open_ai_gpt41-xud
+      value: 1000001-open_ai_gpt41-hxp
       filled-ai: false
     text:
       type: STRING
