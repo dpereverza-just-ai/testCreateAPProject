@@ -1,0 +1,10 @@
+---
+id: code_qkalu
+name: AP3277_RemoteAdded
+position:
+  x: 3000
+  y: 900
+next-step: null
+next-error-step: null
+parameters:
+  language: JAVASCRIPT
