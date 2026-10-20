@@ -1,0 +1,11 @@
+---
+id: state_WebhooTrigger
+name: Вебхук
+position:
+  x: 392
+  y: 491
+next-step: state_SendNews
+next-error-step: null
+parameters:
+  url: https://test-pereverza.lo.test-ai.net/workflow-trigger/3ef27858-a274-4379-8785-e8e91a6d89e7
+  mock-payload: null
