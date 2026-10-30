@@ -26,4 +26,5 @@ parameters:
       filled-ai: false
   context-config: null
   hitl-tool-config: null
+  resilience-config: null
   custom-headers: null

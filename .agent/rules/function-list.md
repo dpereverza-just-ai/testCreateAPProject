@@ -53,6 +53,8 @@ For detailed info about parameters and response, read the corresponding file.
   Schema: .agent/system-functions/Context/getLastStateError.json
 - `Context.getChatHistory` — Retrieves the chat history for the current account
   Schema: .agent/system-functions/Context/getChatHistory.json
+- `Context.isContextReturn` — Checks if the current launch is a return from another project (backToOriginalProject)
+  Schema: .agent/system-functions/Context/isContextReturn.json
 - `Credentials.get` — Retrieves credential information by its key
   Schema: .agent/system-functions/Credentials/get.json
 - `Db.get` — Finds a single document by documentKey in the specified database collection

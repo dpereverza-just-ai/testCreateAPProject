@@ -14,4 +14,5 @@ parameters:
   parameters: {}
   context-config: null
   hitl-tool-config: null
+  resilience-config: null
   custom-headers: null
