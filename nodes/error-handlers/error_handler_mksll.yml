@@ -1,0 +1,11 @@
+---
+id: error_handler_mksll
+name: Обработчик ошибок
+position:
+  x: 600
+  y: 400
+next-step: null
+next-error-step: null
+parameters:
+  collection: handlers
+  function: onError

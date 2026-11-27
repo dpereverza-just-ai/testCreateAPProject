@@ -1,0 +1,7 @@
+---
+id: onError
+name: onError
+description: git
+response-description: null
+parameters: []
+language: JAVASCRIPT
