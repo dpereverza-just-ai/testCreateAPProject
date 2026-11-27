@@ -8,4 +8,4 @@ next-step: null
 next-error-step: null
 parameters:
   collection: handlers
-  function: onError2
+  function: onError
