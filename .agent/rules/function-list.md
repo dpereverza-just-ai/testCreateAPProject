@@ -192,4 +192,6 @@ For detailed info about parameters and response, read the corresponding file.
 
 - `handlers.onError` — git
   Directory: functions/handlers/onError/
+- `handlers.onError2` — git2
+  Directory: functions/handlers/onError2/
 
