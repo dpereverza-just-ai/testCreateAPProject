@@ -1,0 +1,11 @@
+---
+id: error_handler_xtngy
+name: Обработчик ошибок 3
+position:
+  x: 800
+  y: 600
+next-step: null
+next-error-step: null
+parameters:
+  collection: handlers
+  function: onError2
